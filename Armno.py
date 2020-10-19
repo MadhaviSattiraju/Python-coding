@@ -1,4 +1,5 @@
-def arm_no(n):
+
+def arm_no(n): 
     arm=0
     n1=n
     while n>0:
